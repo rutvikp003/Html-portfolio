@@ -17,6 +17,10 @@ A clean, responsive, and modern personal portfolio website built using **HTML5**
 - CSS3 (Flexbox/Grid)
 - JavaScript (Vanilla)
 
+## screenshots
+
+![alt text](assets/images/portfolio.png)
+
 ## 🔧 Setup Instructions
 
 1. Clone this repository:
